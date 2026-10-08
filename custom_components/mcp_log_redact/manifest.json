@@ -1,0 +1,16 @@
+{
+  "domain": "mcp_log_redact",
+  "name": "HA-MCP Log Redact",
+  "codeowners": [
+    "@rbridal"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/rbridal/ha-mcp-log-redact",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/rbridal/ha-mcp-log-redact/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "0.1.0"
+}

@@ -1,0 +1,2 @@
+# Test requirements. pytest-homeassistant-custom-component pins homeassistant.
+pytest-homeassistant-custom-component==0.13.367

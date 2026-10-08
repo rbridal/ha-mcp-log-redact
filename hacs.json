@@ -1,0 +1,7 @@
+{
+  "name": "HA-MCP Log Redact",
+  "homeassistant": "2026.3.0",
+  "render_readme": true,
+  "zip_release": true,
+  "filename": "mcp_log_redact.zip"
+}
